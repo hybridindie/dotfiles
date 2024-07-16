@@ -1,0 +1,33 @@
+import = [
+    "~/.config/alacritty/themes/themes/monokai_charcoal.toml"
+]
+
+[window]
+opacity = 0.98
+dimensions = { columns = 100, lines = 30 }
+dynamic_padding = true
+blur = true
+
+ [window.padding]
+ x = 6
+ y = 6
+
+ [font.bold]
+ family = "JetBrainsMono Nerd Font"
+ style = "Semibold"
+
+ [font.glyph_offset]
+ x = 0
+ y = 0
+
+ [font.italic]
+ family = "JetBrainsMono Nerd Font"
+
+ [font.normal]
+ family = "JetBrainsMono Nerd Font"
+ style = "Regular"
+
+ [font.offset]
+ x = 0
+ y = 0
+
